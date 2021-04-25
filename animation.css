@@ -1,0 +1,11 @@
+.selectedText{
+    background: white;
+    position: relative;
+}
+
+ @keyframes text{
+     0%{
+         color: white;
+         margin-bottom: -40px;
+     }
+ }
